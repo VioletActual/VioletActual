@@ -6,16 +6,16 @@ MSc Artificial Intelligence graduate working on applied AI, model evaluation, ti
 <h2 align="center">Projects I Have Worked On</h2>
 <p align="center">
 <a href="https://github.com/VioletActual/insurance-quote-manipulation-detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VioletActual&repo=insurance-quote-manipulation-detection&theme=highcontrast">
+<img alt="Insurance Quote Manipulation Detection" loading="lazy" src="https://github-readme-stats.vercel.app/api/pin/?username=VioletActual&repo=insurance-quote-manipulation-detection&theme=highcontrast">
 </a>
 <a href="https://github.com/Niveditha-Sivan/Emotion-Detection-using-Body-Temperature-and-Heartbeat">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Niveditha-Sivan&repo=Emotion-Detection-using-Body-Temperature-and-Heartbeat&theme=highcontrast">
+<img alt="Emotion Detection using Body Temperature and Heartbeat" loading="lazy" src="https://github-readme-stats.vercel.app/api/pin/?username=Niveditha-Sivan&repo=Emotion-Detection-using-Body-Temperature-and-Heartbeat&theme=highcontrast">
 </a>
 <a href="https://github.com/Manmohan00/robotic_arm">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Manmohan00&repo=robotic_arm&theme=highcontrast">
+<img alt="Robotic Arm" loading="lazy" src="https://github-readme-stats.vercel.app/api/pin/?username=Manmohan00&repo=robotic_arm&theme=highcontrast">
 </a>
 <a href="https://github.com/OmbudRov/TCS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=OmbudRov&repo=TCS&theme=highcontrast">
+<img alt="TCS" loading="lazy" src="https://github-readme-stats.vercel.app/api/pin/?username=OmbudRov&repo=TCS&theme=highcontrast">
 </a>
 </p>
 
