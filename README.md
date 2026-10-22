@@ -1,27 +1,17 @@
-<h1 align="center">Hi, I'm Annsley</h1>
-<p align="center">
-MSc Artificial Intelligence graduate working on applied AI, model evaluation, time-series anomaly detection and sensor telemetry.
-</p>
+# Hi, I'm Annsley
 
-<h2 align="center">Projects I Have Worked On</h2>
-<p align="center">
-<a href="https://github.com/VioletActual/insurance-quote-manipulation-detection"><b>Insurance Quote Manipulation Detection</b></a> &nbsp;|&nbsp;
-<a href="https://github.com/Niveditha-Sivan/Emotion-Detection-using-Body-Temperature-and-Heartbeat"><b>Emotion Detection (Sensor Telemetry)</b></a> &nbsp;|&nbsp;
-<a href="https://github.com/Manmohan00/robotic_arm"><b>Robotic Arm</b></a> &nbsp;|&nbsp;
-<a href="https://github.com/OmbudRov/TCS"><b>Traffic Control System (Deep Q-Learning)</b></a>
-</p>
+MSc Artificial Intelligence (University of Southampton). I build applied ML systems end to end: detection and evaluation, served as real APIs with tests and CI, not just notebooks. Current focus: LLM-output evaluation, fraud / risk analytics, and MLOps.
 
-<h2 align="center">Languages &amp; Tools</h2>
-<p align="center">
-<img height="30" src="https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/visual%20studio%20code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+Microsoft Certified: Machine Learning Operations (MLOps) Engineer Associate (AI-300).
+
+## Featured
+
+**[Behavioural Fraud Detection: Motor Insurance Quote Manipulation](https://github.com/VioletActual/insurance-quote-manipulation-detection)**
+Live demo: **https://quote-integrity-console.onrender.com**
+
+Detects suspicious quote-manipulation journeys, then uses an LLM to write analyst-ready, evidence-grounded explanations for each flagged case. FastAPI service (5 endpoints + interactive console), versioned prompts with an automated promotion gate, LLM-output scoring validated against 60 human labels, MLflow tracking, Docker, 68 tests in GitHub Actions CI.
+
+## Other work
+
+- **[Emotion Detection from Sensor Telemetry](https://github.com/Niveditha-Sivan/Emotion-Detection-using-Body-Temperature-and-Heartbeat)** — co-authored (Wiley book chapter). Physiological-signal emotion detection: Arduino + Raspberry Pi sensing, Random Forest, Streamlit dashboard.
+- **Group projects (contributor):** [Robotic Arm](https://github.com/Manmohan00/robotic_arm) · [Traffic Control System, Deep Q-Learning](https://github.com/OmbudRov/TCS)
