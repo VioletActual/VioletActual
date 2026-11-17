@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Annsley</h1>
 
 <p align="center">
-MSc Artificial Intelligence (University of Southampton). I build and support AI-assisted business systems on the Microsoft stack.<br>
-I understand how AI systems actually work, and I use that to ship and run business tools people rely on, not just notebooks.<br>
+MSc Artificial Intelligence (University of Southampton). I build and support AI-assisted business systems on the Microsoft Power Platform, and I know how the AI inside them actually works.<br>
 <b>Focus:</b> Power Platform · business process automation · application support and systems
 </p>
 
@@ -24,7 +23,7 @@ I understand how AI systems actually work, and I use that to ship and run busine
 
 <b><a href="https://github.com/VioletActual/ai-case-management-power-platform">AI Case Desk: AI-assisted customer service case management</a></b>
 
-A Copilot Studio agent deflects known questions from a grounded knowledge base and turns real issues into structured, routed, escalated cases. Dataverse data model, Power Automate routing and escalation, Power BI dashboard, role-based access across four personas (customer, agent, team lead, admin), packaged as a managed solution. Built end to end on free tiers.
+A Copilot Studio agent that answers common questions from a knowledge base and logs genuine issues as structured cases, with deterministic Power Automate routing and escalation. Dataverse data model, Power BI dashboard, role-based access across four personas (customer, agent, team lead, admin), packaged as a managed solution. Built on free tiers.
 
 <p align="center">
 <a href="https://quote-integrity-console.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-Quote_Integrity_Console-6f42c1?style=for-the-badge" alt="Live Demo"/></a>
